@@ -6,15 +6,15 @@
     
 🛠️ Projects:
 
-    Digital Wallet Application (3 Months):
+    Digital Wallet Application:
         Android App integrated with Google Firebase Cloud
         Java for back-end | XML layouts for UI | NoSQL storage
         
-    Assistant Application (1 Month):
+    Assistant Application:
         Speech-activated Android Assistant App
         Kotlin for back-end | XML layouts for UI
         
-    Photo-sharing website (1 Month):
+    Photo-sharing website:
         HTML5, CSS, PHP, MySQL & JavaScript
         Appealing UI design with CSS
 
