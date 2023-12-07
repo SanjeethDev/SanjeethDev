@@ -2,7 +2,7 @@
 
 🔧 Skills:
     
-    Java, Python, SQL, NoSQL, AWS
+    Java, Python, SQL, NoSQL, AWS, REST API
     
 🛠️ Projects:
 
