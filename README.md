@@ -8,7 +8,7 @@
 
 <div>
     <p align="right">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhiNHd5a2NteDBwZDdic250YXdvNGluN2doZ3owZ285aXRuM3pzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="480px" align="right">        
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhiNHd5a2NteDBwZDdic250YXdvNGluN2doZ3owZ285aXRuM3pzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="480vh" align="right">        
     </p>
     <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=50&color=8ADBF1&background=FFFFFF00&multiline=true&repeat=false&width=480&height=90&lines=Aspiring+Software+Developer+%7C+Cloud+Enthusiast;Skills%3A+Java%2C+Python%2C+SQL%2C+NoSQL%2C+AWS%2C+REST+API+;Open+to+collaboration+and+new+opportunities.;Let's+build+something+awesome+together!+" alt="Typing SVG" />  
     </p>
