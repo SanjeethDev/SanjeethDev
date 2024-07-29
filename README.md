@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/SanjeethDev">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&letterSpacing=&pause=1000&center=true&vCenter=true&width=435&color=8adbf1&lines=Sanjeeth+Dev;" alt="Sanjeeth Dev" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&pause=1000&color=8ADBF1&center=true&vCenter=true&random=true&width=500&lines=Sanjeeth+Dev;Sanjeeth+Dev;Sanjeeth+Dev;Error+404.+Searching...;********+***;Sanjeeth+Dev;Sanjeeth+Dev;Sanjeeth+Dev" alt="Sanjeeth Dev" />
     </a> 
 </p>
 
@@ -10,14 +10,14 @@
     <p align="right">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhiNHd5a2NteDBwZDdic250YXdvNGluN2doZ3owZ285aXRuM3pzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="40%" align="right">        
     </p>
-    <!-- https://readme-typing-svg.demolab.com/demo/?size=12&duration=1000&pause=50&color=8ADBF1&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&height=90&lines=Software+Developer+;Cloud+Enthusiast;Open+to+collaboration+and+new+opportunities.;+Let's+build+something+awesome+together! -->
+    <!-- Add -> /demo/ for edit-->
     <p align="left">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=50&color=8ADBF1&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=Software+Developer;Cloud+Enthusiast;Open+to+collaboration+and+new+opportunities.;+Let's+build+something+awesome+together!" alt="Typing SVG" />
     </p>
     
 </div>
 
-asdasda
+
 
 
 
