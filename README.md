@@ -10,7 +10,9 @@
     <p align="right">
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHhiNHd5a2NteDBwZDdic250YXdvNGluN2doZ3owZ285aXRuM3pzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.gif" width="40%" align="right">        
     </p>
-    <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1000&pause=50&color=8ADBF1&vCenter=true&background=FFFFFF00&multiline=true&repeat=false&width=480&height=90&lines=Aspiring+Software+Developer+%7C+Cloud+Enthusiast;Open+to+collaboration+and+new+opportunities.;Let's+build+something+awesome+together!+" alt="Typing SVG" />  
+    <!-- https://readme-typing-svg.demolab.com/demo/?size=12&duration=1000&pause=50&color=8ADBF1&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&height=80&lines=Software+Developer+;Cloud+Enthusiast;Open+to+collaboration+and+new+opportunities.;+Let's+build+something+awesome+together! -->
+    <p align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1000&pause=50&color=8ADBF1&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Software+Developer+;Cloud+Enthusiast;Open+to+collaboration+and+new+opportunities.;+Let's+build+something+awesome+together!" alt="Typing SVG" />
     </p>
     
 </div>
