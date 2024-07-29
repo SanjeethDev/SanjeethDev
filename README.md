@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/SanjeethDev">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&letterSpacing=&pause=1000&center=true&vCenter=true&width=435&color=8adbf1&lines=Sanjeeth+Dev" alt="Sanjeeth Dev" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&letterSpacing=&pause=1000&center=true&vCenter=true&width=435&color=8adbf1&lines=Sanjeeth+Dev;" alt="Sanjeeth Dev" />
     </a> 
 </p>
 
@@ -12,7 +12,7 @@
     </p>
     <!-- https://readme-typing-svg.demolab.com/demo/?size=12&duration=1000&pause=50&color=8ADBF1&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&height=90&lines=Software+Developer+;Cloud+Enthusiast;Open+to+collaboration+and+new+opportunities.;+Let's+build+something+awesome+together! -->
     <p align="left">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=50&color=8ADBF1&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=Software+Developer+;Cloud+Enthusiast;Open+to+collaboration+and+new+opportunities.;+Let's+build+something+awesome+together!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1000&pause=50&color=8ADBF1&background=FFFFFF00&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=Software+Developer;Cloud+Enthusiast;Open+to+collaboration+and+new+opportunities.;+Let's+build+something+awesome+together!" alt="Typing SVG" />
     </p>
     
 </div>
