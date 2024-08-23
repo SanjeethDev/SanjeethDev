@@ -17,8 +17,10 @@
     
 </div>
 
-
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanjeeth-devadiga/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/LdUCwc6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
 
 <!--
