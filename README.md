@@ -215,4 +215,3 @@
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-https://drive.google.com/file/d/1QumYkri1Q-tG3yOdLaYnHjIamB0b24CY/view?usp=drivesdk
