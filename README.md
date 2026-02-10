@@ -78,15 +78,6 @@
 
 <img align="right" height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmb3RsZXo2bzRocXhnamkyb3F0NDhpaTNkbW04NW1wczRpdGlpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp"  />
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjeethDev&hide_title=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false%22%20height=%22150%22%20alt=%22stats%20graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SanjeethDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-##
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/SanjeethDev/SanjeethDev/output/snake.svg" alt="Snake animation" />
