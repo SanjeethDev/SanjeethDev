@@ -75,7 +75,7 @@
 </div>
 
 ##
-
+<img align="left" src="https://raw.githubusercontent.com/SanjeethDev/SanjeethDev/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <img align="right" height="240" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJmb3RsZXo2bzRocXhnamkyb3F0NDhpaTNkbW04NW1wczRpdGlpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp"  />
 
 <br clear="both">
@@ -83,3 +83,4 @@
 <img src="https://raw.githubusercontent.com/SanjeethDev/SanjeethDev/output/snake.svg" alt="Snake animation" />
 
 ###
+
